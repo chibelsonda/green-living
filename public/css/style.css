@@ -1,0 +1,71 @@
+
+.green-accent-3 {
+  color: #00e676;
+}
+
+.mb-10 {
+  margin-bottom: 10px;
+}
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+.google-visualization-orgchart-lineleft {
+  border-left: 2px solid #333!important;
+}
+
+.google-visualization-orgchart-linebottom {
+  border-bottom: 2px solid #333!important;
+}
+
+.google-visualization-orgchart-lineright {
+  border-right: 2px solid #333!important;
+}
+
+.google-visualization-orgchart-node, 
+.google-visualization-orgchart-node-medium {
+  border: 0px!important;
+  padding: 12px!important; 
+} 
+ 
+a.link {
+  color: #000;
+  text-decoration: none;
+}
+
+a.link:hover {
+  color: #fff;
+  background-color: #337ab7;
+} 
+
+.carousel-caption {
+  color:green;
+}
+
+.page{
+  min-height: 500px;
+}
+
+.product-img{
+  width:260px;
+  height:300px;
+  border:1px solid rgba(0, 0, 0, 0.05);
+}
+
+.main-img{
+  width:360px;
+  height:210px;
+  border:1px solid rgba(0, 0, 0, 0.05);
+}
+
+.fast-track-img{
+  width:455px;
+  height:330px;
+  border:1px solid rgba(0, 0, 0, 0.05);
+  margin-bottom: 10px;
+}
